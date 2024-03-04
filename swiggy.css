@@ -1,0 +1,53 @@
+.heading{
+    display: flex;
+}
+#login{
+    text-decoration: none;
+    color: #fc8019;
+}
+#referral{
+    color: blue;
+    font-size: 18px;
+    text-decoration: none;
+    margin-bottom: 5%;
+}
+.button{
+    padding-left: 45%;
+    padding-right: 45%;
+    margin-top: 5%;
+    background-color: #fc8019;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border: none;
+    font-weight: bold;
+}
+.ksv{
+    width: 400px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+.image{
+    margin-left: 20%;
+    width: 30%;
+    margin-top: 5%;
+}
+input[type="email"],
+input[type="text"] {
+            width: 100%;
+            border: 2px;
+            box-shadow: 2px;
+            border: 1px solid grey;
+            padding: 12px;
+            padding-top: 8%;
+            padding-bottom: 8%;
+        }
+
+.loginform{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.terms{
+    text-decoration: none;
+    color: black;
+}
